@@ -1,6 +1,6 @@
 # Actividad Extracurricular 3B - Módulo `logging` en Python
 
-**Asignatura:** Programación en Python  
+**Asignatura:** Métodos Numéricos
 **Tema:** Módulo `logging`
 
 ## Objetivo
